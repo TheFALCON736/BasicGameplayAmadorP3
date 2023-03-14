@@ -29,3 +29,4 @@ public class DetectCollsions : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
+}
